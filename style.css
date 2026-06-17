@@ -1,0 +1,125 @@
+/*
+Name: Harsh Kumar
+Roll No: 2502901520150
+Date: 11/06/26
+*/
+
+/* TYPE SELECTOR */
+
+body{
+
+    font-family: Arial, sans-serif;
+
+    font-size: 18px;
+
+    background-color: #f4f4f4;
+
+    color: #222222;
+
+}
+
+/* HEADER */
+
+header{
+
+    background-color: #1e3a8a;
+
+    color: white;
+
+    font-size: 22px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* ID SELECTOR */
+
+#company-name{
+
+    font-size: 45px;
+
+    color: #ffffff;
+
+    font-family: Georgia, serif;
+
+}
+
+/* NAVIGATION */
+
+nav{
+
+    background-color: #2563eb;
+
+    font-size: 20px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+nav a{
+
+    color: white;
+
+    font-size: 20px;
+
+}
+
+/* SECTIONS */
+
+section{
+
+    background-color: white;
+
+    font-size: 18px;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* HEADINGS */
+
+h2{
+
+    color: #1e3a8a;
+
+    font-size: 30px;
+
+    font-family: Verdana, sans-serif;
+
+}
+
+/* LIST */
+
+ul{
+
+    font-size: 18px;
+
+    color: #333333;
+
+}
+
+/* ADDRESS */
+
+address{
+
+    font-size: 18px;
+
+    color: #333333;
+
+    font-family: Arial, sans-serif;
+
+}
+
+/* FOOTER */
+
+footer{
+
+    background-color: #1e3a8a;
+
+    color: white;
+
+    font-size: 16px;
+
+    font-family: Arial, sans-serif;
+
+}
